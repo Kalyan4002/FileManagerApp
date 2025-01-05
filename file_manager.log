@@ -1,0 +1,22 @@
+File Manager Log
+==================================================
+[2025-01-05 18:27:46] Create File - Success - File 'sample.txt' created.
+[2025-01-05 18:28:06] Create File - Success - File 'project.py' created.
+[2025-01-05 18:28:27] Delete File - Success - File 'project.py' deleted.
+[2025-01-05 18:28:40] Create File - Success - File 'read.c' created.
+[2025-01-05 18:28:59] Create File - Success - File 'raju.c' created.
+[2025-01-05 18:29:44] Edit File - Success - Content added to 'sample.txt'.
+[2025-01-05 18:30:43] Edit File - Success - Content added to 'read.c'.
+[2025-01-05 18:31:13] Move File - Success - File 'read.c' moved to 'sample.txt'.
+[2025-01-05 18:31:31] Read File - Success - File 'sample.txt' read.
+[2025-01-05 18:31:53] Read File - Success - File 'raju.c' read.
+[2025-01-05 18:32:08] Read File - Success - File 'raju.c' read.
+[2025-01-05 18:32:28] Create Folder - Success - Folder 'KGF' created.
+[2025-01-05 18:32:53] Create Folder - Success - Folder 'RRR' created.
+[2025-01-05 18:33:21] Add File to Folder - Success - File 'raju.c' moved to 'KGF'.
+[2025-01-05 18:33:51] Create File - Success - File 'gane.txt' created.
+[2025-01-05 18:34:16] Create File - Success - File 'chara.c' created.
+[2025-01-05 18:34:40] Add File to Folder - Success - File 'chara.c' moved to 'RRR'.
+[2025-01-05 18:35:01] Create Zip - Success - Folder 'RRR' zipped as 'RRR.zip'.
+[2025-01-05 18:35:32] Create Folder - Success - Folder 'BAHU' created.
+[2025-01-05 18:36:39] Exit - Success - User exited the program.
